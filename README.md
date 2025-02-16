@@ -1,4 +1,4 @@
-# SQL-Project
+# SQL_Project
 
 ## About the Company
 This project is based on an e-commerce business operating in Brazil. The dataset used for analysis contains information about customer orders, payments, deliveries, and geographical locations of buyers and sellers. The goal is to derive insights from the data to improve business strategies and enhance customer experience.
